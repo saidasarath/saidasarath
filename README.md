@@ -46,6 +46,6 @@
 [![LeetCode Stats](https://leetcard.jacoblin.cool/2100031000_saidasarath?theme=dark)](https://leetcode.com/u/2100031000_saidasarath/)
 
 ## 📫 Connect with Me
-- GitHub: [kottipranith](https://github.com/saidasarath)
-- LinkedIn: [Pranith Kotti](https://www.linkedin.com/in/sai-dasarath-kakumanu-583986225)
-- LeetCode: [klu_2100031054](https://leetcode.com/2100031000_saidasarath/)
+- GitHub: [kakumanu sai dasarath](https://github.com/saidasarath)
+- LinkedIn: [kakumanu sai dasarath](https://www.linkedin.com/in/sai-dasarath-kakumanu-583986225)
+- LeetCode: [2100031000_saidasarath](https://leetcode.com/2100031000_saidasarath/)
